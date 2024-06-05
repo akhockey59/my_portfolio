@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fb60d57.css",
+    "main.js": "/static/js/main.97466d6b.js",
+    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
+    "static/media/netflixmainpage.png": "/static/media/netflixmainpage.ba173ae9f5d4bfe2d1d7.png",
+    "static/media/contact.jpg": "/static/media/contact.2ea49fa448b9e837dffd.jpg",
+    "static/media/chatting-api.png": "/static/media/chatting-api.ebd8de68278aa61b7b66.png",
+    "static/media/shoppingwebsitemainepage.png": "/static/media/shoppingwebsitemainepage.e99d318a37b6e845886f.png",
+    "static/media/profilepic.jpg": "/static/media/profilepic.e43491d045e079dbbd8d.jpg",
+    "static/media/Aakash_CV.pdf": "/static/media/Aakash_CV.7e8eba5d0b3e880d5b33.pdf",
+    "static/media/image.png": "/static/media/image.0358a44bd4a12dc3b313.png",
+    "index.html": "/index.html",
+    "main.0fb60d57.css.map": "/static/css/main.0fb60d57.css.map",
+    "main.97466d6b.js.map": "/static/js/main.97466d6b.js.map",
+    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb60d57.css",
+    "static/js/main.97466d6b.js"
+  ]
+}
